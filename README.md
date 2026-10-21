@@ -1,7 +1,9 @@
 # svalbardQuartoDemo
 
-This repo needs more penguins
+This repo needs more penguins. Many more penguins. I mean there are literally none!
 > []This is a comment
+
+There are no penguins on Svalbard!
 
 <!-- badges: start -->
 
